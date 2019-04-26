@@ -11,5 +11,5 @@
   </div>
 
 </div>
-#### <i class="fa fa-map"></i> [Taller de programación](https://github.com/taller-programacion)
+#### <i class="fa fa-map"></i> [Taller de programación](https://github.com/taller-programacion) :fa-flag:
 
