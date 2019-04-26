@@ -4,11 +4,12 @@
 
 <div class="row">
   <div class="col-md-6 col-xs-12">
-    <i class="fa fa-keyboard"></i> [Taller de programación](https://github.com/taller-programacion)
+   #### <i class="fa fa-keyboard"></i> [Taller de programación](https://github.com/taller-programacion)
   </div>
   <div class="col-md-6 col-xs-12">
     <i class="fa fa-globe-americas"></i> [DSWTL](https://github.com/danjrosales)
   </div>
 
 </div>
+#### <i class="fa fa-keyboard"></i> [Taller de programación](https://github.com/taller-programacion)
 
