@@ -4,6 +4,5 @@
 
 # REPO
 
-## [Taller de programación](https://github.com/taller-programacion)
-## [DSWTL](https://github.com/danjrosales)
-
+* ## [Taller de programación](https://github.com/taller-programacion)
+* ## [DSWTL](https://github.com/danjrosales)
